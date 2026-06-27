@@ -1,0 +1,9 @@
+# data
+data/
+*.csv
+*.parquet
+*.xlsx
+
+# secrets / local scripts
+.env
+crmls_sold.py
