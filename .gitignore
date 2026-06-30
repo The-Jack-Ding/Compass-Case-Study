@@ -1,9 +1,15 @@
-# data
-data/
-*.csv
-*.parquet
-*.xlsx
+# Confidential local CRMLS data inside this repo only
+csv/
+qa/
+outputs/
 
-# secrets / local scripts
-.env
-crmls_sold.py
+# Local-only API / pull scripts
+scripts/crmls_sold_historical_pull_and_qa*.py
+scripts/check_api_history.py
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
