@@ -1,15 +1,51 @@
-# Confidential local CRMLS data inside this repo only
+# -----------------------------------------------------------------------------
+# Confidential source data and local extraction logs
+# -----------------------------------------------------------------------------
 csv/
 qa/
-outputs/
+*.partial
 
-# Local-only API / pull scripts
+# Local-only API and historical pull utilities
 scripts/crmls_sold_historical_pull_and_qa*.py
 scripts/check_api_history.py
 
-# Python cache
-__pycache__/
-*.pyc
+# -----------------------------------------------------------------------------
+# Sensitive row-level derived data
+# Keep aggregate tables, charts, and written reports under outputs/ trackable.
+# -----------------------------------------------------------------------------
+outputs/week1/qa_monthly_summary_week1.csv
+outputs/week1/qa_schema_standardization_week1.csv
+outputs/week1/qa_top_office_name_variants.csv
 
-# macOS
+outputs/week2/agent_year_panel.csv
+outputs/week2/top500_agents_by_year.csv
+outputs/week2/top500_year_over_year_moves.csv
+
+outputs/week3/did_transaction_price_flags.csv.gz
+outputs/week3/did_matched_pairs.csv
+outputs/week3/did_pair_changes.csv
+
+# -----------------------------------------------------------------------------
+# Python environments, caches, and local configuration
+# -----------------------------------------------------------------------------
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+
+# Test, notebook, and tool caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# -----------------------------------------------------------------------------
+# Operating-system and editor files
+# -----------------------------------------------------------------------------
 .DS_Store
+Thumbs.db
+.vscode/
+.idea/

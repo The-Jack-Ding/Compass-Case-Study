@@ -1,0 +1,336 @@
+year,from_brokerage,to_brokerage,agents
+2012,Berkshire Hathaway,Berkshire Hathaway,25
+2012,Berkshire Hathaway,Others,2
+2012,Century 21,Century 21,40
+2012,Century 21,Others,1
+2012,Coldwell Banker,Coldwell Banker,101
+2012,Coldwell Banker,Keller Williams,1
+2012,Coldwell Banker,Others,5
+2012,Coldwell Banker,RE/MAX,2
+2012,Compass,Compass,9
+2012,Keller Williams,Keller Williams,40
+2012,Others,Berkshire Hathaway,1
+2012,Others,Coldwell Banker,2
+2012,Others,Compass,1
+2012,Others,Keller Williams,1
+2012,Others,Others,461
+2012,Others,RE/MAX,1
+2012,Others,Sotheby's,7
+2012,RE/MAX,Keller Williams,1
+2012,RE/MAX,Others,4
+2012,RE/MAX,RE/MAX,46
+2012,Sotheby's,Others,1
+2012,Sotheby's,Sotheby's,22
+2012,eXp,eXp,1
+2013,Berkshire Hathaway,Berkshire Hathaway,24
+2013,Berkshire Hathaway,Others,2
+2013,Berkshire Hathaway,Sotheby's,1
+2013,Century 21,Century 21,36
+2013,Century 21,Keller Williams,1
+2013,Coldwell Banker,Coldwell Banker,106
+2013,Coldwell Banker,Compass,1
+2013,Coldwell Banker,Keller Williams,2
+2013,Coldwell Banker,Others,5
+2013,Compass,Compass,28
+2013,Keller Williams,Keller Williams,46
+2013,Keller Williams,RE/MAX,1
+2013,Others,Berkshire Hathaway,11
+2013,Others,Century 21,1
+2013,Others,Coldwell Banker,4
+2013,Others,Keller Williams,2
+2013,Others,Others,431
+2013,Others,RE/MAX,3
+2013,Others,Sotheby's,1
+2013,RE/MAX,Keller Williams,2
+2013,RE/MAX,Others,3
+2013,RE/MAX,RE/MAX,50
+2013,Redfin,Redfin,3
+2013,Sotheby's,Sotheby's,30
+2013,eXp,eXp,1
+2014,Berkshire Hathaway,Berkshire Hathaway,34
+2014,Berkshire Hathaway,Others,1
+2014,Berkshire Hathaway,Sotheby's,1
+2014,Century 21,Century 21,42
+2014,Century 21,Keller Williams,1
+2014,Coldwell Banker,Coldwell Banker,96
+2014,Coldwell Banker,Compass,4
+2014,Coldwell Banker,Keller Williams,1
+2014,Coldwell Banker,Others,6
+2014,Coldwell Banker,RE/MAX,2
+2014,Compass,Compass,32
+2014,Compass,Sotheby's,1
+2014,Keller Williams,Keller Williams,49
+2014,Keller Williams,Others,3
+2014,Keller Williams,RE/MAX,1
+2014,Others,Berkshire Hathaway,1
+2014,Others,Coldwell Banker,2
+2014,Others,Keller Williams,6
+2014,Others,Others,403
+2014,Others,RE/MAX,2
+2014,Others,Sotheby's,6
+2014,RE/MAX,Others,2
+2014,RE/MAX,RE/MAX,54
+2014,Redfin,Redfin,1
+2014,Sotheby's,Others,3
+2014,Sotheby's,Sotheby's,32
+2015,Berkshire Hathaway,Berkshire Hathaway,28
+2015,Berkshire Hathaway,Sotheby's,1
+2015,Century 21,Century 21,38
+2015,Century 21,Keller Williams,1
+2015,Century 21,Others,1
+2015,Century 21,RE/MAX,1
+2015,Coldwell Banker,Coldwell Banker,97
+2015,Coldwell Banker,Compass,5
+2015,Coldwell Banker,Keller Williams,3
+2015,Compass,Compass,31
+2015,Keller Williams,Keller Williams,66
+2015,Keller Williams,Others,3
+2015,Others,Berkshire Hathaway,3
+2015,Others,Coldwell Banker,2
+2015,Others,Compass,2
+2015,Others,Keller Williams,3
+2015,Others,Others,399
+2015,Others,RE/MAX,1
+2015,RE/MAX,RE/MAX,58
+2015,Redfin,Redfin,3
+2015,Sotheby's,Others,1
+2015,Sotheby's,Sotheby's,31
+2015,eXp,eXp,1
+2016,Berkshire Hathaway,Berkshire Hathaway,29
+2016,Berkshire Hathaway,Others,1
+2016,Century 21,Century 21,34
+2016,Century 21,Others,2
+2016,Coldwell Banker,Century 21,1
+2016,Coldwell Banker,Coldwell Banker,90
+2016,Coldwell Banker,Others,2
+2016,Coldwell Banker,Sotheby's,1
+2016,Compass,Coldwell Banker,1
+2016,Compass,Compass,31
+2016,Keller Williams,Keller Williams,73
+2016,Keller Williams,Others,3
+2016,Others,Coldwell Banker,2
+2016,Others,Compass,3
+2016,Others,Keller Williams,1
+2016,Others,Others,410
+2016,Others,RE/MAX,2
+2016,Others,Sotheby's,1
+2016,RE/MAX,Coldwell Banker,1
+2016,RE/MAX,Keller Williams,1
+2016,RE/MAX,RE/MAX,61
+2016,Redfin,Others,1
+2016,Redfin,Redfin,4
+2016,Sotheby's,Compass,1
+2016,Sotheby's,Sotheby's,23
+2016,eXp,eXp,2
+2017,Berkshire Hathaway,Berkshire Hathaway,31
+2017,Century 21,Century 21,28
+2017,Century 21,Coldwell Banker,1
+2017,Century 21,Others,1
+2017,Century 21,RE/MAX,1
+2017,Coldwell Banker,Coldwell Banker,77
+2017,Coldwell Banker,Others,1
+2017,Coldwell Banker,Sotheby's,1
+2017,Compass,Compass,38
+2017,Compass,Others,1
+2017,Keller Williams,Compass,2
+2017,Keller Williams,Keller Williams,74
+2017,Keller Williams,Others,1
+2017,Keller Williams,eXp,2
+2017,Others,Berkshire Hathaway,1
+2017,Others,Century 21,2
+2017,Others,Coldwell Banker,2
+2017,Others,Compass,5
+2017,Others,Keller Williams,4
+2017,Others,Others,377
+2017,Others,RE/MAX,1
+2017,Others,Sotheby's,1
+2017,Others,eXp,1
+2017,RE/MAX,Century 21,1
+2017,RE/MAX,Keller Williams,1
+2017,RE/MAX,Others,1
+2017,RE/MAX,RE/MAX,56
+2017,Redfin,Redfin,16
+2017,Sotheby's,Compass,3
+2017,Sotheby's,Others,1
+2017,Sotheby's,Sotheby's,29
+2017,eXp,eXp,1
+2018,Berkshire Hathaway,Berkshire Hathaway,28
+2018,Berkshire Hathaway,Century 21,1
+2018,Berkshire Hathaway,RE/MAX,1
+2018,Century 21,Century 21,21
+2018,Century 21,Coldwell Banker,1
+2018,Century 21,Compass,2
+2018,Century 21,Others,7
+2018,Coldwell Banker,Berkshire Hathaway,1
+2018,Coldwell Banker,Coldwell Banker,80
+2018,Coldwell Banker,Compass,2
+2018,Coldwell Banker,Others,1
+2018,Coldwell Banker,RE/MAX,1
+2018,Compass,Compass,43
+2018,Compass,Others,2
+2018,Compass,Sotheby's,1
+2018,Keller Williams,Compass,2
+2018,Keller Williams,Keller Williams,79
+2018,Keller Williams,Others,4
+2018,Keller Williams,Sotheby's,1
+2018,Keller Williams,eXp,2
+2018,Others,Coldwell Banker,1
+2018,Others,Compass,12
+2018,Others,Keller Williams,1
+2018,Others,Others,353
+2018,Others,eXp,1
+2018,RE/MAX,Compass,1
+2018,RE/MAX,Others,2
+2018,RE/MAX,RE/MAX,52
+2018,Redfin,Redfin,17
+2018,Sotheby's,Compass,1
+2018,Sotheby's,Sotheby's,33
+2018,eXp,Others,1
+2018,eXp,eXp,3
+2019,Berkshire Hathaway,Berkshire Hathaway,25
+2019,Century 21,Century 21,17
+2019,Century 21,RE/MAX,1
+2019,Coldwell Banker,Coldwell Banker,68
+2019,Coldwell Banker,Compass,9
+2019,Coldwell Banker,Others,1
+2019,Compass,Compass,77
+2019,Keller Williams,Compass,3
+2019,Keller Williams,Keller Williams,69
+2019,Keller Williams,Others,3
+2019,Keller Williams,RE/MAX,1
+2019,Others,Berkshire Hathaway,1
+2019,Others,Century 21,2
+2019,Others,Coldwell Banker,3
+2019,Others,Compass,5
+2019,Others,Others,349
+2019,Others,eXp,2
+2019,RE/MAX,Keller Williams,1
+2019,RE/MAX,Others,3
+2019,RE/MAX,RE/MAX,53
+2019,Redfin,Redfin,22
+2019,Sotheby's,Compass,1
+2019,Sotheby's,Keller Williams,1
+2019,Sotheby's,Others,1
+2019,Sotheby's,Sotheby's,29
+2019,Sotheby's,eXp,1
+2019,eXp,Others,1
+2019,eXp,eXp,4
+2020,Berkshire Hathaway,Berkshire Hathaway,24
+2020,Berkshire Hathaway,Compass,1
+2020,Century 21,Century 21,14
+2020,Century 21,Others,1
+2020,Coldwell Banker,Coldwell Banker,58
+2020,Coldwell Banker,Others,1
+2020,Coldwell Banker,eXp,1
+2020,Compass,Compass,96
+2020,Compass,Others,3
+2020,Keller Williams,Coldwell Banker,1
+2020,Keller Williams,Compass,1
+2020,Keller Williams,Keller Williams,68
+2020,Keller Williams,Others,1
+2020,Keller Williams,eXp,3
+2020,Others,Century 21,1
+2020,Others,Keller Williams,2
+2020,Others,Others,354
+2020,Others,Sotheby's,2
+2020,Others,eXp,3
+2020,RE/MAX,RE/MAX,53
+2020,RE/MAX,eXp,1
+2020,Redfin,Redfin,26
+2020,Sotheby's,Coldwell Banker,1
+2020,Sotheby's,Sotheby's,34
+2020,eXp,eXp,8
+2021,Berkshire Hathaway,Berkshire Hathaway,23
+2021,Berkshire Hathaway,Compass,1
+2021,Century 21,Century 21,14
+2021,Century 21,Others,2
+2021,Coldwell Banker,Coldwell Banker,57
+2021,Coldwell Banker,Compass,1
+2021,Coldwell Banker,Keller Williams,1
+2021,Coldwell Banker,Others,1
+2021,Compass,Coldwell Banker,1
+2021,Compass,Compass,99
+2021,Compass,Others,1
+2021,Keller Williams,Keller Williams,63
+2021,Keller Williams,Others,6
+2021,Others,Coldwell Banker,3
+2021,Others,Others,343
+2021,Others,eXp,2
+2021,RE/MAX,Keller Williams,1
+2021,RE/MAX,Others,3
+2021,RE/MAX,RE/MAX,56
+2021,Redfin,Redfin,26
+2021,Sotheby's,Compass,1
+2021,Sotheby's,Keller Williams,1
+2021,Sotheby's,Sotheby's,32
+2021,eXp,eXp,15
+2022,Berkshire Hathaway,Berkshire Hathaway,23
+2022,Berkshire Hathaway,Coldwell Banker,1
+2022,Berkshire Hathaway,Others,2
+2022,Century 21,Century 21,17
+2022,Century 21,Others,1
+2022,Coldwell Banker,Coldwell Banker,50
+2022,Compass,Coldwell Banker,2
+2022,Compass,Compass,93
+2022,Compass,Keller Williams,1
+2022,Compass,Others,5
+2022,Keller Williams,Keller Williams,72
+2022,Keller Williams,RE/MAX,1
+2022,Others,Coldwell Banker,4
+2022,Others,Keller Williams,1
+2022,Others,Others,340
+2022,Others,eXp,4
+2022,RE/MAX,Century 21,1
+2022,RE/MAX,Others,4
+2022,RE/MAX,RE/MAX,37
+2022,Redfin,Redfin,22
+2022,Sotheby's,Keller Williams,1
+2022,Sotheby's,Others,1
+2022,Sotheby's,Sotheby's,28
+2022,eXp,Others,3
+2022,eXp,eXp,26
+2023,Berkshire Hathaway,Berkshire Hathaway,21
+2023,Century 21,Century 21,9
+2023,Century 21,Others,2
+2023,Coldwell Banker,Coldwell Banker,49
+2023,Coldwell Banker,Others,1
+2023,Coldwell Banker,Sotheby's,3
+2023,Compass,Compass,99
+2023,Keller Williams,Keller Williams,75
+2023,Others,Compass,2
+2023,Others,Keller Williams,2
+2023,Others,Others,350
+2023,Others,RE/MAX,1
+2023,Others,eXp,2
+2023,RE/MAX,Others,3
+2023,RE/MAX,RE/MAX,42
+2023,Redfin,Redfin,21
+2023,Sotheby's,Others,2
+2023,Sotheby's,Sotheby's,23
+2023,eXp,Others,2
+2023,eXp,eXp,30
+2024,Berkshire Hathaway,Berkshire Hathaway,21
+2024,Century 21,Century 21,10
+2024,Century 21,Coldwell Banker,1
+2024,Century 21,Others,1
+2024,Coldwell Banker,Coldwell Banker,45
+2024,Coldwell Banker,Compass,1
+2024,Coldwell Banker,Others,2
+2024,Compass,Compass,95
+2024,Compass,Keller Williams,1
+2024,Compass,Others,2
+2024,Keller Williams,Keller Williams,64
+2024,Keller Williams,Others,1
+2024,Others,Century 21,1
+2024,Others,Coldwell Banker,2
+2024,Others,Compass,2
+2024,Others,Keller Williams,1
+2024,Others,Others,362
+2024,Others,Sotheby's,1
+2024,Others,eXp,1
+2024,RE/MAX,Others,7
+2024,RE/MAX,RE/MAX,39
+2024,Redfin,Redfin,15
+2024,Sotheby's,Sotheby's,29
+2024,eXp,Others,2
+2024,eXp,eXp,23
